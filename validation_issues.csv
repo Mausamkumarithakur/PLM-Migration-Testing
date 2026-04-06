@@ -1,0 +1,19 @@
+Entity,Record_ID,Field,Issue_Type,Detail,Severity,Detected_At
+Parts,PT-00006,Part_Name,Null Value,Part name is missing,High,2026-04-06 10:03:23
+Parts,PT-00013,Unit_Cost_INR,Invalid Value,Negative cost: -999.0,High,2026-04-06 10:03:23
+Parts,PT-00026,Revision,Null Value,Revision is missing,High,2026-04-06 10:03:23
+Parts,PT-00041,Status,Invalid Reference,Unknown status: INVALID_STATUS,High,2026-04-06 10:03:23
+Parts,PT-00061,Weight_KG,Null Value,Weight is missing,Medium,2026-04-06 10:03:23
+BOM,BOM-00004,Quantity,Invalid Value,"Quantity must be > 0, found: 0",High,2026-04-06 10:03:23
+BOM,BOM-00011,Parent_Part_ID,Null Value,Parent Part ID missing,High,2026-04-06 10:03:23
+BOM,BOM-00023,Child_Part_ID,Orphan Record,Child not in Parts: PT-99999,High,2026-04-06 10:03:23
+Documents,DOC-00008,Doc_Name,Null Value,Document name is missing,High,2026-04-06 10:03:23
+Documents,DOC-00016,Related_Part_ID,Orphan Record,Part not found: PT-00000,High,2026-04-06 10:03:23
+ECO,ECO-00005,Priority,Null Value,Priority is missing,High,2026-04-06 10:03:23
+ECO,ECO-00007,Approved_By,Business Rule Violation,Approved ECO has no approver,Critical,2026-04-06 10:03:23
+ECO,ECO-00008,Approved_By,Business Rule Violation,Approved ECO has no approver,Critical,2026-04-06 10:03:23
+ECO,ECO-00013,Approved_By,Business Rule Violation,Approved ECO has no approver,Critical,2026-04-06 10:03:23
+ECO,ECO-00019,Status,Invalid Reference,Unknown status: UNKNOWN,High,2026-04-06 10:03:23
+ECO,ECO-00036,Approved_By,Business Rule Violation,Approved ECO has no approver,Critical,2026-04-06 10:03:23
+ECO,ECO-00045,Approved_By,Business Rule Violation,Approved ECO has no approver,Critical,2026-04-06 10:03:23
+ECO,ECO-00059,Approved_By,Business Rule Violation,Approved ECO has no approver,Critical,2026-04-06 10:03:23

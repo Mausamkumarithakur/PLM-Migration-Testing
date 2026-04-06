@@ -1,0 +1,201 @@
+Part_ID,Part_Name,Category,Revision,Status,UOM,Weight_KG,Unit_Cost_INR,Owner,Created_Date,Modified_Date,Source_System,Migration_Status
+PT-00001,Gear A 859,Electrical,D,Draft,M,4.1,12931.49,Amit Shah,2023-10-18,2024-10-04,Legacy_PLM_v1,Pending
+PT-00002,Bracket B 328,Assembly,C,Draft,M,4.115,7010.84,Vikram Iyer,2024-06-11,2023-09-06,Legacy_PLM_v1,Completed
+PT-00003,Sensor Y 204,Software,A,Released,KG,20.366,41754.77,Priya Nair,2024-11-10,2023-04-15,Legacy_PLM_v1,In Progress
+PT-00004,Filter A 704,Software,D,Released,L,16.633,49220.89,Priya Nair,2024-10-10,2024-12-14,Legacy_PLM_v1,In Progress
+PT-00005,Relay A 130,Mechanical,D,Released,EA,13.081,26308.22,Vikram Iyer,2024-09-26,2023-11-05,Legacy_PLM_v1,Failed
+PT-00006,,Mechanical,C,Released,EA,8.977,8625.38,Sneha Patil,2023-12-10,2024-12-01,Legacy_PLM_v1,Pending
+PT-00007,Filter X 127,Mechanical,A,Released,L,21.931,13651.75,Vikram Iyer,2023-04-06,2024-09-06,Legacy_PLM_v1,Completed
+PT-00008,Filter B 833,Firmware,C,In Review,KG,9.817,968.61,Sneha Patil,2023-08-29,2023-05-04,Legacy_PLM_v1,Completed
+PT-00009,Filter D 325,Software,A,Released,M,20.417,45719.23,Vikram Iyer,2024-11-19,2024-08-02,Legacy_PLM_v1,Pending
+PT-00010,Switch X 384,Software,E,Released,EA,10.984,5931.67,Vikram Iyer,2023-11-14,2023-02-12,Legacy_PLM_v1,Completed
+PT-00011,Bolt B 814,Mechanical,B,Obsolete,SET,9.43,28847.0,Raj Mehta,2023-08-19,2023-12-22,Legacy_PLM_v1,Failed
+PT-00012,Relay C 384,Assembly,B,Released,SET,11.572,13739.06,Priya Nair,2023-07-23,2024-06-29,Legacy_PLM_v1,Pending
+PT-00013,Sensor B 881,Firmware,B,Obsolete,L,7.541,-999.0,Vikram Iyer,2023-05-31,2024-03-14,Legacy_PLM_v1,Completed
+PT-00014,Cable A 194,Mechanical,C,Released,KG,18.693,32588.45,Vikram Iyer,2023-01-26,2024-11-08,Legacy_PLM_v1,Completed
+PT-00015,Relay A 467,Mechanical,E,Released,EA,12.573,41495.6,Amit Shah,2023-02-17,2024-01-15,Legacy_PLM_v1,Completed
+PT-00016,Cable X 370,Mechanical,A,In Review,KG,5.813,10360.74,Priya Nair,2023-09-08,2023-03-12,Legacy_PLM_v1,Completed
+PT-00017,Bolt Y 570,Electrical,D,In Review,EA,22.49,599.24,Amit Shah,2024-05-01,2024-06-02,Legacy_PLM_v1,Pending
+PT-00018,Filter A 487,Electrical,A,Obsolete,L,9.603,6887.44,Priya Nair,2024-09-17,2024-10-25,Legacy_PLM_v1,Failed
+PT-00019,Gear X 400,Electrical,D,In Review,L,13.593,45005.93,Amit Shah,2023-03-16,2023-12-16,Legacy_PLM_v1,Failed
+PT-00020,Valve C 691,Mechanical,A,Obsolete,SET,22.663,43700.81,Vikram Iyer,2024-04-11,2023-01-13,Legacy_PLM_v1,Completed
+PT-00021,Module Y 171,Software,E,Released,KG,15.61,29890.78,Vikram Iyer,2024-02-29,2024-03-06,Legacy_PLM_v1,Completed
+PT-00022,Bolt Y 333,Mechanical,D,Released,SET,2.931,30045.82,Raj Mehta,2024-10-06,2024-05-16,Legacy_PLM_v1,Completed
+PT-00023,Bracket A 975,Mechanical,C,Obsolete,KG,23.496,33268.58,Amit Shah,2024-08-12,2023-04-19,Legacy_PLM_v1,In Progress
+PT-00024,Module A 489,Electrical,A,Obsolete,SET,15.696,8809.8,Sneha Patil,2023-07-19,2024-03-19,Legacy_PLM_v1,Completed
+PT-00025,Bracket D 750,Electrical,A,Draft,M,8.379,45724.88,Raj Mehta,2024-12-14,2024-01-06,Legacy_PLM_v1,Completed
+PT-00026,Cable B 479,Firmware,,Released,M,3.49,20967.59,Amit Shah,2024-01-29,2024-10-12,Legacy_PLM_v1,Completed
+PT-00027,Cable B 786,Mechanical,C,Released,M,19.853,19187.77,Amit Shah,2024-05-21,2024-04-15,Legacy_PLM_v1,Completed
+PT-00028,Bracket Y 799,Electrical,C,Obsolete,M,15.506,25969.94,Raj Mehta,2024-02-14,2024-12-25,Legacy_PLM_v1,In Progress
+PT-00029,Gear X 750,Software,E,Released,EA,13.341,2395.95,Vikram Iyer,2023-09-07,2023-06-06,Legacy_PLM_v1,Pending
+PT-00030,Sensor X 846,Mechanical,C,Draft,M,22.348,8355.85,Amit Shah,2023-06-01,2024-03-21,Legacy_PLM_v1,Pending
+PT-00031,Module B 573,Software,C,Obsolete,L,19.717,36914.78,Vikram Iyer,2024-11-02,2023-06-30,Legacy_PLM_v1,In Progress
+PT-00032,Relay C 755,Mechanical,C,Released,L,3.8,4185.79,Raj Mehta,2024-12-05,2024-06-18,Legacy_PLM_v1,Completed
+PT-00033,Filter B 801,Mechanical,B,Obsolete,EA,7.8,30177.45,Vikram Iyer,2023-01-06,2024-10-28,Legacy_PLM_v1,Completed
+PT-00034,Cable A 334,Assembly,E,Obsolete,M,6.22,12305.19,Priya Nair,2023-04-20,2023-10-04,Legacy_PLM_v1,Completed
+PT-00035,Bolt C 510,Assembly,A,Released,M,18.601,19495.32,Sneha Patil,2024-03-11,2024-09-22,Legacy_PLM_v1,In Progress
+PT-00036,Bracket A 316,Firmware,D,Draft,M,0.848,14470.25,Amit Shah,2023-08-13,2024-07-05,Legacy_PLM_v1,Completed
+PT-00037,Valve Y 422,Electrical,A,Released,SET,14.252,17815.85,Sneha Patil,2023-06-30,2024-05-10,Legacy_PLM_v1,In Progress
+PT-00038,Module Y 611,Mechanical,E,Obsolete,KG,19.064,35966.34,Vikram Iyer,2024-12-13,2024-04-21,Legacy_PLM_v1,In Progress
+PT-00039,Relay Y 569,Software,D,Released,SET,21.92,14891.23,Amit Shah,2024-06-14,2024-03-22,Legacy_PLM_v1,Completed
+PT-00040,Sensor C 242,Electrical,E,Obsolete,KG,8.559,28341.91,Vikram Iyer,2024-04-20,2024-08-29,Legacy_PLM_v1,Completed
+PT-00041,Module Y 674,Mechanical,C,INVALID_STATUS,M,20.533,23828.72,Priya Nair,2023-02-21,2023-10-02,Legacy_PLM_v1,In Progress
+PT-00042,Filter C 864,Electrical,D,Released,M,2.775,33200.37,Raj Mehta,2024-07-24,2023-11-27,Legacy_PLM_v1,Pending
+PT-00043,Valve D 697,Mechanical,C,Draft,SET,21.163,46844.65,Amit Shah,2023-09-13,2023-09-09,Legacy_PLM_v1,Pending
+PT-00044,Relay C 324,Assembly,A,Released,SET,3.196,36641.98,Priya Nair,2023-05-05,2023-03-30,Legacy_PLM_v1,Pending
+PT-00045,Sensor X 605,Mechanical,A,Released,KG,9.938,10786.27,Priya Nair,2024-04-12,2023-10-13,Legacy_PLM_v1,Completed
+PT-00046,Gear A 981,Software,D,Draft,L,19.934,1607.6,Amit Shah,2023-05-17,2024-04-06,Legacy_PLM_v1,In Progress
+PT-00047,Gear B 742,Electrical,D,Draft,KG,3.756,13150.09,Vikram Iyer,2024-04-20,2023-09-07,Legacy_PLM_v1,Completed
+PT-00048,Sensor Y 532,Electrical,E,In Review,SET,5.739,29774.14,Priya Nair,2024-11-14,2024-04-20,Legacy_PLM_v1,In Progress
+PT-00049,Valve A 494,Electrical,E,In Review,SET,18.059,2618.72,Sneha Patil,2024-06-27,2024-08-06,Legacy_PLM_v1,Pending
+PT-00050,Relay X 579,Mechanical,C,Released,EA,18.004,24843.49,Priya Nair,2024-07-26,2024-09-16,Legacy_PLM_v1,In Progress
+PT-00051,Filter C 666,Assembly,D,Released,SET,16.032,29862.3,Vikram Iyer,2024-09-01,2024-11-15,Legacy_PLM_v1,Pending
+PT-00052,Bolt Y 838,Firmware,A,Released,EA,17.352,16745.48,Vikram Iyer,2023-11-21,2024-01-24,Legacy_PLM_v1,In Progress
+PT-00053,Gear Y 649,Assembly,E,In Review,L,13.573,38557.06,Sneha Patil,2024-03-29,2023-12-11,Legacy_PLM_v1,Pending
+PT-00054,Bracket Y 448,Firmware,E,Obsolete,KG,6.302,5374.58,Priya Nair,2024-09-19,2023-01-30,Legacy_PLM_v1,Completed
+PT-00055,Gear C 545,Software,A,Obsolete,KG,8.649,3803.13,Vikram Iyer,2024-05-31,2024-05-21,Legacy_PLM_v1,Pending
+PT-00056,Sensor D 103,Assembly,E,Obsolete,EA,4.548,36423.03,Amit Shah,2024-03-12,2023-11-29,Legacy_PLM_v1,Failed
+PT-00057,Bracket X 880,Mechanical,C,Released,KG,22.712,24799.79,Raj Mehta,2024-07-15,2023-07-06,Legacy_PLM_v1,In Progress
+PT-00058,Sensor X 208,Mechanical,D,Released,SET,14.589,34435.7,Raj Mehta,2024-04-01,2024-05-14,Legacy_PLM_v1,Completed
+PT-00059,Bracket Y 619,Mechanical,A,Released,M,10.027,21769.63,Raj Mehta,2023-06-12,2023-08-06,Legacy_PLM_v1,Completed
+PT-00060,Valve B 256,Electrical,D,Released,EA,11.556,12357.78,Priya Nair,2024-05-01,2023-12-30,Legacy_PLM_v1,Completed
+PT-00061,Cable B 652,Electrical,E,Released,KG,,40964.16,Sneha Patil,2024-04-05,2023-09-22,Legacy_PLM_v1,Completed
+PT-00062,Filter A 713,Mechanical,E,Obsolete,EA,3.842,39980.82,Vikram Iyer,2023-09-23,2023-12-15,Legacy_PLM_v1,Completed
+PT-00063,Cable D 119,Firmware,A,Released,EA,14.66,34750.09,Amit Shah,2023-09-11,2023-10-14,Legacy_PLM_v1,Completed
+PT-00064,Gear C 999,Electrical,C,Released,M,12.652,13643.65,Amit Shah,2024-10-14,2024-09-02,Legacy_PLM_v1,Completed
+PT-00065,Bracket B 159,Mechanical,B,Released,SET,15.29,29532.02,Priya Nair,2023-10-11,2024-12-19,Legacy_PLM_v1,Completed
+PT-00066,Module X 180,Electrical,A,Obsolete,EA,0.463,18080.65,Raj Mehta,2024-06-17,2023-10-10,Legacy_PLM_v1,Pending
+PT-00067,Gear Y 597,Mechanical,B,In Review,KG,21.804,4624.52,Priya Nair,2024-05-11,2024-07-23,Legacy_PLM_v1,In Progress
+PT-00068,Gear X 884,Firmware,B,Released,L,23.304,45869.81,Sneha Patil,2024-10-03,2023-01-11,Legacy_PLM_v1,Completed
+PT-00069,Sensor B 775,Mechanical,C,Released,EA,14.133,6884.09,Sneha Patil,2023-09-02,2024-06-13,Legacy_PLM_v1,Completed
+PT-00070,Switch X 269,Assembly,B,In Review,EA,17.419,47514.36,Vikram Iyer,2023-10-09,2023-07-15,Legacy_PLM_v1,Completed
+PT-00071,Bracket X 993,Firmware,B,Released,M,23.063,22327.99,Vikram Iyer,2024-03-26,2023-03-29,Legacy_PLM_v1,Completed
+PT-00072,Valve D 316,Mechanical,C,Obsolete,SET,17.684,9297.39,Sneha Patil,2023-03-21,2023-09-05,Legacy_PLM_v1,Failed
+PT-00073,Filter Y 806,Mechanical,B,In Review,L,3.822,27117.95,Sneha Patil,2024-12-31,2024-02-21,Legacy_PLM_v1,Pending
+PT-00074,Module Y 419,Firmware,B,Released,KG,14.411,43653.64,Sneha Patil,2023-10-20,2024-05-15,Legacy_PLM_v1,In Progress
+PT-00075,Relay Y 765,Software,B,Released,L,15.172,36624.63,Priya Nair,2023-08-29,2024-07-22,Legacy_PLM_v1,In Progress
+PT-00076,Cable D 629,Software,A,Draft,KG,10.609,40337.73,Sneha Patil,2023-10-06,2023-09-04,Legacy_PLM_v1,In Progress
+PT-00077,Switch A 353,Firmware,A,Released,SET,18.414,32956.23,Amit Shah,2023-12-10,2024-12-08,Legacy_PLM_v1,Completed
+PT-00078,Module A 446,Mechanical,A,Released,KG,23.36,34629.21,Raj Mehta,2023-11-24,2024-05-02,Legacy_PLM_v1,Pending
+PT-00079,Bolt X 667,Electrical,C,Obsolete,M,23.14,42467.32,Sneha Patil,2024-07-07,2024-10-23,Legacy_PLM_v1,Completed
+PT-00080,Module X 325,Mechanical,E,Draft,M,11.276,12520.92,Raj Mehta,2023-03-24,2024-12-29,Legacy_PLM_v1,In Progress
+PT-00081,Bolt A 824,Firmware,B,Draft,M,2.84,24496.78,Priya Nair,2023-05-22,2024-05-17,Legacy_PLM_v1,Completed
+PT-00082,Bolt B 169,Software,B,Obsolete,M,24.621,11099.41,Raj Mehta,2023-06-04,2024-04-03,Legacy_PLM_v1,Completed
+PT-00083,Bolt C 172,Electrical,C,Released,L,20.974,49384.02,Priya Nair,2023-08-25,2023-01-18,Legacy_PLM_v1,In Progress
+PT-00084,Filter B 385,Mechanical,B,Released,SET,3.125,47205.76,Amit Shah,2024-01-28,2023-04-06,Legacy_PLM_v1,Completed
+PT-00085,Switch B 652,Electrical,A,Obsolete,KG,23.022,2019.37,Priya Nair,2024-12-11,2023-10-29,Legacy_PLM_v1,In Progress
+PT-00086,Sensor Y 684,Electrical,E,In Review,KG,21.749,35293.48,Priya Nair,2023-06-06,2023-08-15,Legacy_PLM_v1,Pending
+PT-00087,Valve D 348,Software,D,Released,M,12.976,46266.15,Vikram Iyer,2024-12-24,2024-02-19,Legacy_PLM_v1,In Progress
+PT-00088,Switch D 294,Software,B,Draft,M,14.786,9069.74,Sneha Patil,2023-08-08,2024-12-09,Legacy_PLM_v1,Pending
+PT-00089,Gear A 774,Firmware,A,Released,EA,9.981,28418.86,Sneha Patil,2023-03-07,2023-09-07,Legacy_PLM_v1,In Progress
+PT-00090,Relay C 533,Electrical,D,Released,SET,1.378,45778.64,Amit Shah,2024-02-29,2023-11-10,Legacy_PLM_v1,Completed
+PT-00091,Relay D 984,Mechanical,E,Released,L,8.387,1745.6,Amit Shah,2024-02-22,2024-11-10,Legacy_PLM_v1,Completed
+PT-00092,Bolt Y 769,Software,D,Released,KG,20.073,34886.14,Sneha Patil,2023-12-05,2024-08-18,Legacy_PLM_v1,Completed
+PT-00093,Gear A 512,Firmware,A,Released,EA,0.126,14902.58,Vikram Iyer,2024-07-09,2024-01-13,Legacy_PLM_v1,Pending
+PT-00094,Cable A 354,Software,D,Released,EA,8.344,46223.59,Sneha Patil,2024-04-22,2024-04-29,Legacy_PLM_v1,Completed
+PT-00095,Module B 649,Firmware,C,Released,KG,9.96,48554.36,Vikram Iyer,2024-03-01,2024-07-20,Legacy_PLM_v1,In Progress
+PT-00096,Switch B 532,Electrical,D,In Review,L,13.44,47216.11,Amit Shah,2023-03-05,2024-06-27,Legacy_PLM_v1,In Progress
+PT-00097,Sensor C 573,Electrical,B,In Review,EA,22.997,23737.0,Raj Mehta,2023-07-31,2023-12-19,Legacy_PLM_v1,Completed
+PT-00098,Module A 553,Electrical,B,In Review,EA,8.665,43109.03,Amit Shah,2024-03-06,2024-03-11,Legacy_PLM_v1,Pending
+PT-00099,Filter A 151,Mechanical,C,Draft,SET,8.68,42235.24,Amit Shah,2024-02-03,2024-07-17,Legacy_PLM_v1,Completed
+PT-00100,Filter A 195,Mechanical,A,Released,L,18.44,15989.07,Priya Nair,2024-08-21,2023-12-05,Legacy_PLM_v1,Completed
+PT-00101,Module B 516,Mechanical,B,Released,EA,11.311,41454.33,Priya Nair,2024-12-13,2023-12-27,Legacy_PLM_v1,In Progress
+PT-00102,Switch D 318,Software,E,Obsolete,L,5.623,1898.53,Priya Nair,2023-01-21,2024-12-20,Legacy_PLM_v1,Pending
+PT-00103,Relay A 268,Electrical,B,Released,KG,11.316,29833.68,Priya Nair,2024-08-12,2024-04-09,Legacy_PLM_v1,Pending
+PT-00104,Relay A 499,Electrical,B,Draft,M,3.53,11538.94,Vikram Iyer,2024-01-25,2023-10-05,Legacy_PLM_v1,Completed
+PT-00105,Bracket D 392,Assembly,A,Released,EA,4.418,6072.32,Sneha Patil,2024-05-03,2023-11-10,Legacy_PLM_v1,In Progress
+PT-00106,Relay Y 848,Mechanical,D,Draft,SET,12.464,3893.81,Raj Mehta,2023-01-07,2023-09-15,Legacy_PLM_v1,In Progress
+PT-00107,Filter Y 835,Electrical,B,Released,KG,10.479,34829.62,Amit Shah,2023-12-27,2023-08-25,Legacy_PLM_v1,In Progress
+PT-00108,Switch B 294,Firmware,C,Obsolete,L,22.872,17026.75,Vikram Iyer,2023-11-02,2023-05-04,Legacy_PLM_v1,Completed
+PT-00109,Bracket B 159,Mechanical,D,Released,KG,9.066,36252.1,Raj Mehta,2024-02-04,2023-07-17,Legacy_PLM_v1,Pending
+PT-00110,Valve Y 655,Mechanical,E,Draft,EA,14.519,3314.55,Vikram Iyer,2024-03-05,2023-11-20,Legacy_PLM_v1,In Progress
+PT-00111,Bolt Y 421,Mechanical,A,Released,L,15.81,15798.75,Vikram Iyer,2024-07-05,2023-05-03,Legacy_PLM_v1,Completed
+PT-00112,Bolt A 698,Mechanical,E,In Review,M,0.337,26997.59,Amit Shah,2024-07-13,2024-07-02,Legacy_PLM_v1,Failed
+PT-00113,Switch X 973,Assembly,D,Draft,KG,16.592,39546.62,Sneha Patil,2024-09-09,2024-12-07,Legacy_PLM_v1,Pending
+PT-00114,Filter B 158,Firmware,D,Released,EA,4.459,15971.69,Priya Nair,2023-08-14,2023-07-09,Legacy_PLM_v1,In Progress
+PT-00115,Filter A 971,Software,D,In Review,SET,24.027,31313.27,Sneha Patil,2024-05-14,2023-07-16,Legacy_PLM_v1,In Progress
+PT-00116,Sensor A 709,Firmware,E,In Review,L,3.725,44304.59,Amit Shah,2023-08-13,2023-08-10,Legacy_PLM_v1,Completed
+PT-00117,Gear Y 982,Firmware,D,Released,KG,10.371,30812.37,Amit Shah,2023-10-07,2024-05-10,Legacy_PLM_v1,In Progress
+PT-00118,Module D 222,Mechanical,E,In Review,KG,2.143,11686.33,Amit Shah,2024-03-22,2023-10-11,Legacy_PLM_v1,Completed
+PT-00119,Valve B 692,Firmware,D,In Review,M,24.922,1268.82,Raj Mehta,2024-05-12,2024-08-26,Legacy_PLM_v1,Completed
+PT-00120,Valve A 734,Electrical,C,Draft,M,12.56,43511.44,Sneha Patil,2023-01-30,2024-06-21,Legacy_PLM_v1,Completed
+PT-00121,Gear D 773,Firmware,D,Released,SET,14.889,1112.41,Sneha Patil,2024-02-03,2024-09-03,Legacy_PLM_v1,In Progress
+PT-00122,Valve X 635,Firmware,E,Released,SET,1.686,43741.35,Vikram Iyer,2023-12-11,2023-10-17,Legacy_PLM_v1,Completed
+PT-00123,Cable C 309,Electrical,B,Draft,EA,18.752,26470.41,Vikram Iyer,2024-11-15,2023-04-13,Legacy_PLM_v1,Completed
+PT-00124,Cable B 371,Mechanical,D,Obsolete,EA,5.256,46956.43,Vikram Iyer,2024-11-26,2023-07-18,Legacy_PLM_v1,Completed
+PT-00125,Relay B 787,Mechanical,B,Released,SET,22.452,39949.22,Amit Shah,2024-02-19,2023-10-31,Legacy_PLM_v1,Pending
+PT-00126,Bracket D 423,Electrical,C,In Review,SET,5.136,49896.81,Sneha Patil,2023-06-19,2023-08-21,Legacy_PLM_v1,Failed
+PT-00127,Gear A 569,Firmware,A,Released,L,4.775,17568.06,Amit Shah,2024-04-23,2024-01-05,Legacy_PLM_v1,Pending
+PT-00128,Valve X 202,Firmware,C,Released,M,0.923,38371.06,Raj Mehta,2023-05-11,2023-07-03,Legacy_PLM_v1,Pending
+PT-00129,Gear X 318,Mechanical,D,Released,EA,11.807,20126.45,Vikram Iyer,2024-09-29,2023-11-06,Legacy_PLM_v1,Pending
+PT-00130,Filter C 235,Electrical,B,Released,M,14.125,24019.79,Amit Shah,2024-06-30,2023-01-15,Legacy_PLM_v1,Completed
+PT-00131,Cable A 350,Electrical,B,In Review,M,1.652,31393.9,Amit Shah,2023-01-28,2024-12-26,Legacy_PLM_v1,Pending
+PT-00132,Cable C 261,Mechanical,E,Released,SET,19.39,43690.17,Raj Mehta,2024-02-08,2024-06-30,Legacy_PLM_v1,Pending
+PT-00133,Switch X 820,Mechanical,B,Draft,L,11.338,49204.97,Priya Nair,2024-08-29,2023-05-10,Legacy_PLM_v1,Pending
+PT-00134,Bracket X 926,Electrical,E,Draft,KG,13.115,38425.26,Sneha Patil,2024-07-31,2023-10-08,Legacy_PLM_v1,Pending
+PT-00135,Filter A 783,Assembly,A,In Review,L,11.025,20917.45,Priya Nair,2024-11-09,2023-02-16,Legacy_PLM_v1,Completed
+PT-00136,Filter C 779,Electrical,D,Released,L,10.025,21096.78,Vikram Iyer,2023-01-28,2023-02-25,Legacy_PLM_v1,Completed
+PT-00137,Gear B 370,Electrical,E,Released,M,13.995,36892.24,Amit Shah,2023-03-27,2024-07-20,Legacy_PLM_v1,In Progress
+PT-00138,Gear A 860,Software,A,Obsolete,L,3.889,11976.92,Raj Mehta,2024-10-20,2023-10-27,Legacy_PLM_v1,In Progress
+PT-00139,Filter B 378,Electrical,B,In Review,EA,4.556,5568.18,Raj Mehta,2024-03-14,2024-12-15,Legacy_PLM_v1,Completed
+PT-00140,Bracket X 315,Assembly,B,Released,M,21.546,17763.38,Sneha Patil,2023-05-19,2023-05-10,Legacy_PLM_v1,Pending
+PT-00141,Cable B 803,Assembly,A,Draft,EA,23.653,14397.59,Priya Nair,2024-04-17,2024-10-15,Legacy_PLM_v1,In Progress
+PT-00142,Bracket X 600,Mechanical,B,Obsolete,KG,9.339,14850.59,Sneha Patil,2023-07-06,2024-05-17,Legacy_PLM_v1,Failed
+PT-00143,Bracket A 194,Electrical,A,Draft,M,6.776,11718.71,Amit Shah,2023-02-21,2023-04-16,Legacy_PLM_v1,Completed
+PT-00144,Relay C 145,Electrical,E,In Review,KG,16.104,2152.55,Sneha Patil,2023-09-24,2023-01-13,Legacy_PLM_v1,Pending
+PT-00145,Bolt C 889,Mechanical,E,In Review,M,10.224,942.8,Raj Mehta,2024-01-24,2024-08-10,Legacy_PLM_v1,Completed
+PT-00146,Sensor Y 368,Mechanical,A,Released,SET,0.644,49386.73,Raj Mehta,2023-12-02,2023-10-19,Legacy_PLM_v1,In Progress
+PT-00147,Sensor Y 552,Software,E,Draft,L,3.912,21417.27,Vikram Iyer,2023-08-05,2024-04-25,Legacy_PLM_v1,Completed
+PT-00148,Filter Y 537,Electrical,E,Obsolete,SET,17.902,19247.12,Vikram Iyer,2024-04-10,2024-05-05,Legacy_PLM_v1,Pending
+PT-00149,Filter A 214,Mechanical,E,Released,KG,16.477,33998.38,Amit Shah,2023-12-01,2024-03-27,Legacy_PLM_v1,Pending
+PT-00150,Gear Y 252,Mechanical,C,Released,L,0.687,10951.78,Priya Nair,2023-12-12,2023-12-15,Legacy_PLM_v1,Pending
+PT-00151,Filter A 954,Assembly,D,Released,M,5.557,47500.56,Sneha Patil,2024-01-24,2023-07-08,Legacy_PLM_v1,Failed
+PT-00152,Cable X 665,Mechanical,B,Obsolete,L,5.785,39327.93,Amit Shah,2023-10-12,2023-02-22,Legacy_PLM_v1,Completed
+PT-00153,Sensor D 230,Mechanical,C,Draft,EA,16.801,4516.08,Vikram Iyer,2024-03-07,2023-09-16,Legacy_PLM_v1,Pending
+PT-00154,Bolt C 473,Electrical,E,Released,L,0.503,20908.16,Sneha Patil,2023-09-16,2024-05-04,Legacy_PLM_v1,Pending
+PT-00155,Bolt C 315,Assembly,A,In Review,EA,2.612,43961.96,Vikram Iyer,2023-03-25,2023-04-27,Legacy_PLM_v1,Completed
+PT-00156,Module Y 205,Mechanical,E,Released,L,20.0,47239.36,Sneha Patil,2024-04-26,2023-03-08,Legacy_PLM_v1,Pending
+PT-00157,Cable X 995,Software,D,Draft,EA,4.472,23396.71,Priya Nair,2023-01-20,2024-02-15,Legacy_PLM_v1,Pending
+PT-00158,Relay X 867,Firmware,E,Obsolete,KG,16.322,30689.9,Amit Shah,2024-07-06,2024-05-18,Legacy_PLM_v1,Failed
+PT-00159,Sensor B 985,Mechanical,A,Obsolete,SET,5.962,8393.35,Sneha Patil,2023-02-23,2023-03-17,Legacy_PLM_v1,Pending
+PT-00160,Sensor B 522,Software,D,Released,M,2.495,49558.87,Raj Mehta,2023-12-25,2024-08-13,Legacy_PLM_v1,Completed
+PT-00161,Bolt B 854,Electrical,E,Released,L,6.087,11622.0,Raj Mehta,2023-08-18,2024-10-06,Legacy_PLM_v1,Failed
+PT-00162,Cable D 921,Software,D,Released,SET,18.059,47139.45,Sneha Patil,2024-10-27,2024-12-03,Legacy_PLM_v1,In Progress
+PT-00163,Module C 263,Software,B,Released,M,21.394,32499.85,Sneha Patil,2023-03-12,2023-02-24,Legacy_PLM_v1,Pending
+PT-00164,Gear D 993,Electrical,B,Obsolete,M,20.757,30406.45,Sneha Patil,2024-10-29,2023-06-05,Legacy_PLM_v1,Pending
+PT-00165,Bolt D 327,Mechanical,E,Obsolete,EA,9.936,25658.79,Raj Mehta,2023-02-11,2023-06-02,Legacy_PLM_v1,Completed
+PT-00166,Module D 458,Firmware,D,Draft,KG,16.705,11571.96,Raj Mehta,2023-02-01,2024-07-30,Legacy_PLM_v1,Completed
+PT-00167,Bracket B 328,Electrical,A,Draft,KG,5.133,8867.58,Sneha Patil,2023-09-11,2023-11-08,Legacy_PLM_v1,Completed
+PT-00168,Bolt Y 297,Mechanical,E,In Review,SET,7.336,11063.29,Vikram Iyer,2023-07-24,2023-03-29,Legacy_PLM_v1,Pending
+PT-00169,Relay C 385,Mechanical,B,Obsolete,KG,22.409,9362.59,Vikram Iyer,2023-01-21,2023-09-12,Legacy_PLM_v1,Completed
+PT-00170,Gear C 459,Software,B,Draft,L,0.335,38990.24,Priya Nair,2024-09-28,2023-05-02,Legacy_PLM_v1,Failed
+PT-00171,Filter D 795,Software,E,Obsolete,KG,2.147,17538.76,Amit Shah,2023-06-06,2024-07-25,Legacy_PLM_v1,Completed
+PT-00172,Filter C 128,Mechanical,D,Released,SET,5.205,2939.24,Vikram Iyer,2023-09-02,2024-03-02,Legacy_PLM_v1,Failed
+PT-00173,Gear C 282,Electrical,B,Released,KG,0.673,48456.68,Raj Mehta,2023-05-10,2024-09-12,Legacy_PLM_v1,Completed
+PT-00174,Valve C 139,Mechanical,D,Released,L,4.544,44195.1,Vikram Iyer,2024-04-29,2024-09-02,Legacy_PLM_v1,Completed
+PT-00175,Gear X 544,Software,B,Draft,EA,14.58,46391.23,Priya Nair,2024-11-16,2024-09-25,Legacy_PLM_v1,Completed
+PT-00176,Cable Y 905,Mechanical,B,In Review,SET,10.541,49745.65,Priya Nair,2023-04-28,2023-08-20,Legacy_PLM_v1,In Progress
+PT-00177,Cable D 720,Software,C,Released,EA,22.318,8736.07,Amit Shah,2024-07-31,2024-06-19,Legacy_PLM_v1,Pending
+PT-00178,Filter A 494,Electrical,B,In Review,EA,20.438,19842.29,Vikram Iyer,2023-08-12,2024-01-25,Legacy_PLM_v1,Completed
+PT-00179,Valve B 360,Assembly,A,In Review,EA,8.552,37924.01,Raj Mehta,2024-04-21,2024-04-06,Legacy_PLM_v1,In Progress
+PT-00180,Bolt Y 546,Mechanical,E,Released,M,6.493,34816.23,Raj Mehta,2024-12-17,2024-03-29,Legacy_PLM_v1,Completed
+PT-00181,Bolt X 925,Electrical,E,Released,M,9.499,7737.1,Sneha Patil,2023-09-20,2023-11-01,Legacy_PLM_v1,Failed
+PT-00182,Filter Y 836,Mechanical,D,In Review,EA,14.761,40800.86,Raj Mehta,2024-01-13,2024-08-25,Legacy_PLM_v1,Completed
+PT-00183,Module C 541,Assembly,B,Released,SET,6.709,11260.81,Amit Shah,2023-06-21,2024-03-15,Legacy_PLM_v1,Pending
+PT-00184,Gear Y 438,Firmware,A,Obsolete,L,15.607,11229.69,Amit Shah,2024-09-12,2023-11-09,Legacy_PLM_v1,Pending
+PT-00185,Valve C 779,Mechanical,D,Released,L,10.241,26871.87,Raj Mehta,2024-09-13,2024-08-05,Legacy_PLM_v1,Pending
+PT-00186,Gear Y 407,Software,C,Obsolete,KG,13.806,29667.35,Raj Mehta,2023-04-28,2024-09-27,Legacy_PLM_v1,Completed
+PT-00187,Filter C 782,Firmware,D,In Review,SET,10.909,29025.31,Sneha Patil,2023-06-17,2023-03-03,Legacy_PLM_v1,Completed
+PT-00188,Relay C 512,Software,D,In Review,M,7.369,4619.77,Raj Mehta,2023-11-15,2024-09-16,Legacy_PLM_v1,Failed
+PT-00189,Bracket X 230,Electrical,B,Obsolete,EA,23.712,43879.17,Sneha Patil,2023-04-21,2023-04-12,Legacy_PLM_v1,In Progress
+PT-00190,Module D 780,Mechanical,C,Released,KG,19.093,13316.72,Sneha Patil,2024-08-15,2023-08-01,Legacy_PLM_v1,Failed
+PT-00191,Relay Y 866,Mechanical,D,Released,L,3.511,6519.27,Raj Mehta,2023-01-27,2024-10-02,Legacy_PLM_v1,Completed
+PT-00192,Sensor X 682,Firmware,A,Released,M,21.713,44442.97,Priya Nair,2023-11-16,2023-08-05,Legacy_PLM_v1,In Progress
+PT-00193,Bracket D 661,Assembly,A,Obsolete,M,12.191,47784.79,Priya Nair,2024-08-12,2023-09-28,Legacy_PLM_v1,Completed
+PT-00194,Bolt C 393,Software,E,In Review,EA,22.365,43113.27,Sneha Patil,2024-11-24,2024-11-07,Legacy_PLM_v1,In Progress
+PT-00195,Module D 904,Electrical,C,In Review,L,19.998,40485.33,Raj Mehta,2024-01-20,2023-03-25,Legacy_PLM_v1,Pending
+PT-00196,Valve X 770,Electrical,C,Released,SET,10.636,32779.34,Priya Nair,2024-02-11,2023-06-10,Legacy_PLM_v1,Completed
+PT-00197,Cable D 552,Software,E,Released,M,0.572,27565.33,Raj Mehta,2023-07-23,2023-09-03,Legacy_PLM_v1,In Progress
+PT-00198,Switch Y 318,Firmware,D,Released,EA,6.724,4394.99,Raj Mehta,2023-03-19,2023-06-27,Legacy_PLM_v1,Completed
+PT-00199,Filter D 912,Firmware,C,Released,SET,13.545,20452.24,Raj Mehta,2024-08-29,2024-07-19,Legacy_PLM_v1,Completed
+PT-00200,Sensor Y 186,Firmware,A,In Review,L,15.841,18665.79,Vikram Iyer,2024-12-08,2023-03-18,Legacy_PLM_v1,Completed

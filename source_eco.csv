@@ -1,0 +1,81 @@
+ECO_ID,ECO_Type,Title,Affected_Part_ID,Priority,Status,Initiated_By,Initiated_Date,Approved_By,Source_System,Migration_Status
+ECO-00001,ECO,Change Request for PT-00015,PT-00124,Low,Open,Raj Mehta,2024-10-22,Vikram Iyer,Legacy_PLM_v1,Failed
+ECO-00002,ECN,Change Request for PT-00002,PT-00199,Medium,Closed,Vikram Iyer,2023-06-01,,Legacy_PLM_v1,Completed
+ECO-00003,ECN,Change Request for PT-00053,PT-00013,Critical,Approved,Sneha Patil,2023-08-30,Amit Shah,Legacy_PLM_v1,Pending
+ECO-00004,ECR,Change Request for PT-00078,PT-00141,High,In Review,Vikram Iyer,2023-04-16,Amit Shah,Legacy_PLM_v1,Completed
+ECO-00005,ECR,Change Request for PT-00055,PT-00100,,Approved,Amit Shah,2023-05-30,Raj Mehta,Legacy_PLM_v1,Completed
+ECO-00006,ECN,Change Request for PT-00197,PT-00031,High,Open,Amit Shah,2023-09-20,Amit Shah,Legacy_PLM_v1,Pending
+ECO-00007,ECR,Change Request for PT-00036,PT-00130,Medium,Approved,Vikram Iyer,2023-07-22,,Legacy_PLM_v1,Completed
+ECO-00008,ECN,Change Request for PT-00196,PT-00016,High,Approved,Amit Shah,2023-06-27,,Legacy_PLM_v1,Completed
+ECO-00009,ECR,Change Request for PT-00066,PT-00137,High,In Review,Sneha Patil,2024-09-08,Amit Shah,Legacy_PLM_v1,Completed
+ECO-00010,ECO,Change Request for PT-00075,PT-00073,Medium,Closed,Priya Nair,2023-06-06,,Legacy_PLM_v1,Pending
+ECO-00011,ECR,Change Request for PT-00084,PT-00166,High,Approved,Amit Shah,2024-11-02,Vikram Iyer,Legacy_PLM_v1,Completed
+ECO-00012,ECO,Change Request for PT-00031,PT-00054,Medium,In Review,Amit Shah,2023-03-19,Amit Shah,Legacy_PLM_v1,Completed
+ECO-00013,ECO,Change Request for PT-00002,PT-00184,Medium,Approved,Vikram Iyer,2023-07-01,,Legacy_PLM_v1,Completed
+ECO-00014,ECO,Change Request for PT-00128,PT-00100,Medium,Closed,Sneha Patil,2024-10-05,Amit Shah,Legacy_PLM_v1,Completed
+ECO-00015,ECO,Change Request for PT-00192,PT-00109,Medium,Open,Priya Nair,2024-05-20,Sneha Patil,Legacy_PLM_v1,Completed
+ECO-00016,ECR,Change Request for PT-00111,PT-00087,Medium,In Review,Vikram Iyer,2024-04-20,,Legacy_PLM_v1,Completed
+ECO-00017,ECN,Change Request for PT-00045,PT-00173,Low,Open,Vikram Iyer,2024-07-31,Raj Mehta,Legacy_PLM_v1,Failed
+ECO-00018,ECO,Change Request for PT-00034,PT-00162,Medium,Open,Sneha Patil,2024-08-16,Sneha Patil,Legacy_PLM_v1,Completed
+ECO-00019,ECR,Change Request for PT-00098,PT-00137,Medium,UNKNOWN,Priya Nair,2024-04-04,Amit Shah,Legacy_PLM_v1,Pending
+ECO-00020,ECO,Change Request for PT-00137,PT-00008,Low,Approved,Sneha Patil,2024-11-28,Vikram Iyer,Legacy_PLM_v1,Completed
+ECO-00021,ECR,Change Request for PT-00181,PT-00007,Medium,In Review,Priya Nair,2024-08-01,,Legacy_PLM_v1,Completed
+ECO-00022,ECR,Change Request for PT-00059,PT-00036,High,Approved,Sneha Patil,2024-10-20,Vikram Iyer,Legacy_PLM_v1,Completed
+ECO-00023,ECR,Change Request for PT-00129,PT-00018,High,In Review,Vikram Iyer,2024-10-12,Amit Shah,Legacy_PLM_v1,Pending
+ECO-00024,ECN,Change Request for PT-00144,PT-00003,High,Closed,Vikram Iyer,2024-10-01,Priya Nair,Legacy_PLM_v1,Failed
+ECO-00025,ECR,Change Request for PT-00172,PT-00028,Low,Closed,Raj Mehta,2023-11-27,Sneha Patil,Legacy_PLM_v1,Completed
+ECO-00026,ECR,Change Request for PT-00091,PT-00070,Medium,In Review,Amit Shah,2024-10-04,,Legacy_PLM_v1,Pending
+ECO-00027,ECN,Change Request for PT-00019,PT-00172,Low,Closed,Sneha Patil,2023-11-20,Priya Nair,Legacy_PLM_v1,Pending
+ECO-00028,ECN,Change Request for PT-00102,PT-00149,Medium,Rejected,Raj Mehta,2023-06-04,,Legacy_PLM_v1,Pending
+ECO-00029,ECR,Change Request for PT-00190,PT-00028,Medium,In Review,Amit Shah,2024-03-26,Raj Mehta,Legacy_PLM_v1,Completed
+ECO-00030,ECN,Change Request for PT-00011,PT-00054,Critical,In Review,Sneha Patil,2023-03-11,Vikram Iyer,Legacy_PLM_v1,Pending
+ECO-00031,ECO,Change Request for PT-00112,PT-00182,Medium,Approved,Priya Nair,2024-04-25,Vikram Iyer,Legacy_PLM_v1,Pending
+ECO-00032,ECO,Change Request for PT-00005,PT-00065,Medium,Rejected,Amit Shah,2024-03-28,,Legacy_PLM_v1,Failed
+ECO-00033,ECN,Change Request for PT-00118,PT-00100,Low,Closed,Vikram Iyer,2024-10-08,Vikram Iyer,Legacy_PLM_v1,Completed
+ECO-00034,ECN,Change Request for PT-00020,PT-00021,High,Rejected,Raj Mehta,2023-11-07,,Legacy_PLM_v1,Pending
+ECO-00035,ECR,Change Request for PT-00081,PT-00013,Medium,Closed,Amit Shah,2023-10-09,Priya Nair,Legacy_PLM_v1,Pending
+ECO-00036,ECN,Change Request for PT-00148,PT-00057,Medium,Approved,Amit Shah,2024-08-28,,Legacy_PLM_v1,Pending
+ECO-00037,ECR,Change Request for PT-00110,PT-00049,Medium,Rejected,Vikram Iyer,2023-02-27,Vikram Iyer,Legacy_PLM_v1,Pending
+ECO-00038,ECO,Change Request for PT-00147,PT-00118,Medium,Rejected,Sneha Patil,2023-12-27,Priya Nair,Legacy_PLM_v1,Completed
+ECO-00039,ECN,Change Request for PT-00104,PT-00054,Medium,In Review,Priya Nair,2024-06-03,Raj Mehta,Legacy_PLM_v1,Pending
+ECO-00040,ECR,Change Request for PT-00182,PT-00138,High,Approved,Vikram Iyer,2023-03-17,Priya Nair,Legacy_PLM_v1,Pending
+ECO-00041,ECR,Change Request for PT-00164,PT-00053,Medium,Rejected,Priya Nair,2023-11-14,Vikram Iyer,Legacy_PLM_v1,Completed
+ECO-00042,ECO,Change Request for PT-00107,PT-00044,Medium,Open,Sneha Patil,2024-04-17,,Legacy_PLM_v1,Completed
+ECO-00043,ECN,Change Request for PT-00075,PT-00047,Low,Rejected,Amit Shah,2024-04-07,Sneha Patil,Legacy_PLM_v1,Completed
+ECO-00044,ECO,Change Request for PT-00030,PT-00053,Low,Open,Priya Nair,2023-02-08,,Legacy_PLM_v1,Completed
+ECO-00045,ECR,Change Request for PT-00104,PT-00074,High,Approved,Raj Mehta,2023-02-28,,Legacy_PLM_v1,Completed
+ECO-00046,ECR,Change Request for PT-00006,PT-00046,High,Rejected,Raj Mehta,2024-01-13,Sneha Patil,Legacy_PLM_v1,Completed
+ECO-00047,ECN,Change Request for PT-00084,PT-00013,Low,In Review,Vikram Iyer,2023-10-21,Priya Nair,Legacy_PLM_v1,Completed
+ECO-00048,ECR,Change Request for PT-00044,PT-00165,Medium,In Review,Sneha Patil,2023-03-20,Vikram Iyer,Legacy_PLM_v1,Completed
+ECO-00049,ECN,Change Request for PT-00159,PT-00102,Low,In Review,Vikram Iyer,2024-10-22,Sneha Patil,Legacy_PLM_v1,Failed
+ECO-00050,ECO,Change Request for PT-00118,PT-00024,High,Closed,Vikram Iyer,2023-04-03,Sneha Patil,Legacy_PLM_v1,Pending
+ECO-00051,ECN,Change Request for PT-00177,PT-00002,Medium,Open,Vikram Iyer,2024-09-21,Sneha Patil,Legacy_PLM_v1,Completed
+ECO-00052,ECN,Change Request for PT-00093,PT-00081,Low,Closed,Raj Mehta,2024-08-31,Priya Nair,Legacy_PLM_v1,Pending
+ECO-00053,ECR,Change Request for PT-00023,PT-00100,Low,Open,Raj Mehta,2024-06-03,Priya Nair,Legacy_PLM_v1,Completed
+ECO-00054,ECR,Change Request for PT-00112,PT-00142,High,Closed,Vikram Iyer,2024-01-29,Raj Mehta,Legacy_PLM_v1,Completed
+ECO-00055,ECN,Change Request for PT-00028,PT-00138,Medium,Closed,Raj Mehta,2024-04-18,Amit Shah,Legacy_PLM_v1,Completed
+ECO-00056,ECR,Change Request for PT-00063,PT-00163,Medium,Approved,Sneha Patil,2024-08-17,Raj Mehta,Legacy_PLM_v1,Pending
+ECO-00057,ECR,Change Request for PT-00112,PT-00153,Critical,Approved,Vikram Iyer,2024-07-21,Vikram Iyer,Legacy_PLM_v1,Completed
+ECO-00058,ECR,Change Request for PT-00151,PT-00131,Medium,Approved,Raj Mehta,2023-02-12,Amit Shah,Legacy_PLM_v1,Completed
+ECO-00059,ECN,Change Request for PT-00103,PT-00111,Medium,Approved,Priya Nair,2024-04-05,,Legacy_PLM_v1,Completed
+ECO-00060,ECR,Change Request for PT-00135,PT-00102,Low,Open,Vikram Iyer,2024-08-08,,Legacy_PLM_v1,Completed
+ECO-00061,ECN,Change Request for PT-00021,PT-00017,Medium,Open,Vikram Iyer,2024-10-29,Vikram Iyer,Legacy_PLM_v1,Completed
+ECO-00062,ECR,Change Request for PT-00102,PT-00012,High,Open,Sneha Patil,2023-07-12,,Legacy_PLM_v1,Completed
+ECO-00063,ECO,Change Request for PT-00080,PT-00182,Critical,In Review,Amit Shah,2023-11-26,Priya Nair,Legacy_PLM_v1,Completed
+ECO-00064,ECR,Change Request for PT-00191,PT-00116,Medium,In Review,Amit Shah,2024-09-11,Amit Shah,Legacy_PLM_v1,Completed
+ECO-00065,ECR,Change Request for PT-00087,PT-00024,High,Approved,Sneha Patil,2024-05-02,Sneha Patil,Legacy_PLM_v1,Pending
+ECO-00066,ECN,Change Request for PT-00057,PT-00029,Medium,Closed,Sneha Patil,2024-05-28,,Legacy_PLM_v1,Failed
+ECO-00067,ECN,Change Request for PT-00086,PT-00171,High,In Review,Sneha Patil,2023-06-04,Priya Nair,Legacy_PLM_v1,Completed
+ECO-00068,ECR,Change Request for PT-00200,PT-00153,Low,Approved,Amit Shah,2023-03-05,Raj Mehta,Legacy_PLM_v1,Failed
+ECO-00069,ECO,Change Request for PT-00044,PT-00122,Low,In Review,Sneha Patil,2024-04-06,Raj Mehta,Legacy_PLM_v1,Pending
+ECO-00070,ECR,Change Request for PT-00020,PT-00188,Medium,Rejected,Raj Mehta,2023-04-16,Raj Mehta,Legacy_PLM_v1,Failed
+ECO-00071,ECR,Change Request for PT-00131,PT-00090,Low,Closed,Vikram Iyer,2023-12-18,Amit Shah,Legacy_PLM_v1,Completed
+ECO-00072,ECO,Change Request for PT-00163,PT-00065,Medium,Closed,Vikram Iyer,2023-03-28,Priya Nair,Legacy_PLM_v1,Completed
+ECO-00073,ECN,Change Request for PT-00030,PT-00084,Medium,Closed,Priya Nair,2024-05-31,,Legacy_PLM_v1,Completed
+ECO-00074,ECR,Change Request for PT-00136,PT-00119,High,Open,Priya Nair,2024-10-23,Sneha Patil,Legacy_PLM_v1,Completed
+ECO-00075,ECN,Change Request for PT-00131,PT-00156,Medium,Rejected,Vikram Iyer,2023-06-26,Priya Nair,Legacy_PLM_v1,Completed
+ECO-00076,ECN,Change Request for PT-00050,PT-00016,Medium,Rejected,Raj Mehta,2023-02-10,Sneha Patil,Legacy_PLM_v1,Completed
+ECO-00077,ECO,Change Request for PT-00199,PT-00175,Low,In Review,Amit Shah,2023-09-11,Raj Mehta,Legacy_PLM_v1,Pending
+ECO-00078,ECO,Change Request for PT-00090,PT-00104,Medium,Closed,Amit Shah,2024-12-25,Raj Mehta,Legacy_PLM_v1,Completed
+ECO-00079,ECN,Change Request for PT-00090,PT-00092,Low,Open,Raj Mehta,2024-03-24,,Legacy_PLM_v1,Failed
+ECO-00080,ECR,Change Request for PT-00187,PT-00186,Medium,Approved,Amit Shah,2024-03-25,Vikram Iyer,Legacy_PLM_v1,Failed

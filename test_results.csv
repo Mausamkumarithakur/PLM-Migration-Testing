@@ -1,0 +1,32 @@
+Test_Case_ID,Test_Name,Entity,Category,Description,Expected_Result,Actual_Result,Status,Severity,Remarks,Executed_At
+TC-001,Parts Record Count,Parts,Extraction,Verify 200 parts extracted,200,200,PASS,High,,2026-04-06 10:03:56
+TC-002,BOM Record Count,BOM,Extraction,Verify 150 BOM records,150,150,PASS,High,,2026-04-06 10:03:56
+TC-003,Document Record Count,Docs,Extraction,Verify 100 documents,100,100,PASS,High,,2026-04-06 10:03:56
+TC-004,ECO Record Count,ECO,Extraction,Verify 80 ECOs,80,80,PASS,High,,2026-04-06 10:03:56
+TC-005,Parts Column Count,Parts,Extraction,Verify 13 columns in Parts,13,13,PASS,Medium,,2026-04-06 10:03:56
+TC-006,BOM Column Count,BOM,Extraction,Verify 9 columns in BOM,9,9,PASS,Medium,,2026-04-06 10:03:56
+TC-007,Source System Tag - Parts,Parts,Extraction,All rows tagged with source,True,True,PASS,Medium,,2026-04-06 10:03:56
+TC-008,Source System Tag - BOM,BOM,Extraction,All rows tagged with source,True,True,PASS,Medium,,2026-04-06 10:03:56
+TC-009,Parts - Unique IDs,Parts,Data Integrity,No duplicate Part_IDs,0,0,PASS,Critical,,2026-04-06 10:03:56
+TC-010,BOM - Unique IDs,BOM,Data Integrity,No duplicate BOM_IDs,0,0,PASS,Critical,,2026-04-06 10:03:56
+TC-011,Docs - Unique IDs,Docs,Data Integrity,No duplicate Doc_IDs,0,0,PASS,Critical,,2026-04-06 10:03:56
+TC-012,ECO - Unique IDs,ECO,Data Integrity,No duplicate ECO_IDs,0,0,PASS,Critical,,2026-04-06 10:03:56
+TC-013,Parts - No Null Part_ID,Parts,Data Integrity,Part_ID column has no nulls,0,0,PASS,Critical,,2026-04-06 10:03:56
+TC-014,BOM - No Null BOM_ID,BOM,Data Integrity,BOM_ID column has no nulls,0,0,PASS,Critical,,2026-04-06 10:03:56
+TC-015,Parts - Null Part Names,Parts,Validation,Detect null Part Names,True,True,PASS,High,1 null(s) found,2026-04-06 10:03:56
+TC-016,Parts - Negative Cost,Parts,Validation,Detect negative unit costs,True,True,PASS,High,1 negative cost(s),2026-04-06 10:03:56
+TC-017,Parts - Invalid Status,Parts,Validation,Detect invalid status values,True,True,PASS,High,1 invalid status(es),2026-04-06 10:03:56
+TC-018,BOM - Orphan Children,BOM,Validation,Detect orphan BOM child refs,True,True,PASS,Critical,1 orphan(s),2026-04-06 10:03:56
+TC-019,BOM - Zero Quantity,BOM,Validation,Detect zero/negative quantity,True,True,PASS,Medium,1 zero-qty row(s),2026-04-06 10:03:56
+TC-020,Docs - Orphan Part Refs,Docs,Validation,Detect doc→part orphan refs,True,True,PASS,High,1 orphan(s),2026-04-06 10:03:56
+TC-021,ECO - Invalid Status,ECO,Validation,Detect invalid ECO statuses,True,True,PASS,High,1 invalid(s),2026-04-06 10:03:56
+TC-022,ECO - Null Priority,ECO,Validation,Detect missing ECO priorities,True,True,PASS,Medium,1 null(s),2026-04-06 10:03:56
+TC-023,ECO - Approved No Approver,ECO,Validation,Approved ECO must have approver,True,True,PASS,Critical,6 violation(s),2026-04-06 10:03:56
+TC-024,Migration Status - Parts Completed,Parts,Migration QA,At least 30% parts migrated,True,True,PASS,High,43.5% completed,2026-04-06 10:03:56
+TC-025,Migration Status - BOM Completed,BOM,Migration QA,At least 50% BOM migrated,True,True,PASS,High,57.3% completed,2026-04-06 10:03:56
+TC-026,Total Issues Detected,All,Migration QA,Validation engine detects all issues,True,True,PASS,High,18 total issues logged,2026-04-06 10:03:56
+TC-027,Issue Severity Breakdown,All,Migration QA,Critical issues exist in log,True,True,PASS,Critical,,2026-04-06 10:03:56
+TC-028,Parts Schema Intact,Parts,Regression,Required columns present,True,True,PASS,High,,2026-04-06 10:03:56
+TC-029,BOM Schema Intact,BOM,Regression,Required columns present,True,True,PASS,High,,2026-04-06 10:03:56
+TC-030,Docs Schema Intact,Docs,Regression,Required columns present,True,True,PASS,High,,2026-04-06 10:03:56
+TC-031,ECO Schema Intact,ECO,Regression,Required columns present,True,True,PASS,High,,2026-04-06 10:03:56
